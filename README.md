@@ -16,6 +16,6 @@ Made with flutter and sql server
 </ul>
 
 </br></br>
-<img src="https://github.com/muhibbin-munna/medical_ebooks/blob/master/images/https://github.com/muhibbin-munna/barcode_scanner/blob/main/images/ss1.jpg?raw=true" width="200">&emsp;<img src="https://github.com/muhibbin-munna/barcode_scanner/blob/main/images/ss2.jpg?raw=true" width="200">&emsp;<img src="https://github.com/muhibbin-munna/barcode_scanner/blob/main/images/ss3.jpg?raw=true" width="200">
+<img src="https://github.com/muhibbin-munna/barcode_scanner/blob/main/images/ss1.jpg?raw=true" width="200">&emsp;<img src="https://github.com/muhibbin-munna/barcode_scanner/blob/main/images/ss2.jpg?raw=true" width="200">&emsp;<img src="https://github.com/muhibbin-munna/barcode_scanner/blob/main/images/ss3.jpg?raw=true" width="200">
 
 </p>
