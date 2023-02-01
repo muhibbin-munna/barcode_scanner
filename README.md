@@ -1,16 +1,21 @@
-# barcode_scanner
+A barcode scanner application.
 
-A new Flutter project.
+<h1>Barcode Scanner</h1>
+<h4>An application for barcode scanner for industry</h4>
 
-## Getting Started
+Made with flutter and sql server
 
-This project is a starting point for a Flutter application.
+<p>
+  <ul>
+    <li>Attracting UI</li>
+    <li>All ebooks read online</li>
+    <li>Download ebooks for read offline</li>
+    <li>Categorized books</li>
+    <li>🔎 Browse the ever growing collections of books</li>
+   
+</ul>
 
-A few resources to get you started if this is your first Flutter project:
+</br></br>
+<img src="https://github.com/muhibbin-munna/medical_ebooks/blob/master/images/https://github.com/muhibbin-munna/barcode_scanner/blob/main/images/ss1.jpg?raw=true" width="200">&emsp;<img src="https://github.com/muhibbin-munna/barcode_scanner/blob/main/images/ss2.jpg?raw=true" width="200">&emsp;<img src="https://github.com/muhibbin-munna/barcode_scanner/blob/main/images/ss3.jpg?raw=true" width="200">
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+</p>
