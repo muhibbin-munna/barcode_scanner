@@ -6,14 +6,8 @@ A barcode scanner application.
 Made with flutter and sql server
 
 <p>
-  <ul>
-    <li>Attracting UI</li>
-    <li>All ebooks read online</li>
-    <li>Download ebooks for read offline</li>
-    <li>Categorized books</li>
-    <li>🔎 Browse the ever growing collections of books</li>
-   
-</ul>
+  
+Scan barcodes of the products and update it to the server.
 
 </br></br>
 <img src="https://github.com/muhibbin-munna/barcode_scanner/blob/main/images/ss1.jpg?raw=true" width="200">&emsp;<img src="https://github.com/muhibbin-munna/barcode_scanner/blob/main/images/ss2.jpg?raw=true" width="200">&emsp;<img src="https://github.com/muhibbin-munna/barcode_scanner/blob/main/images/ss3.jpg?raw=true" width="200">
